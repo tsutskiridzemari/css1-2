@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#starynight {
+    color: #000;
+    font-size: 72px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 16px;
+}
+
+#image {
+    margin-left: 55px;
+    width: 568px;
+    height: 446px;
+}
+
+#STARYNIGHT2 {
+    font-size: 40px;
+    margin-left: 55px;
+    width: 568px;
+    text-align: center;
+    font-family: lato;
+    font-weight: 700;
+}
+
+
+#starynight3 {
+    color: #414651;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    width: 568px;
+    height: 96px;
+    margin-left: 55px;
+}
+
+#range {
+    color: #155EEF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 55px;
+}
+
+#more {
+    color: #CEA201;
+    font-size: 20px;
+    font-weight: 113px;
+    height: 32px;
+    border: 2px solid #CEA201;
+    margin-top: 32px;
+    margin-left: 55px;
+}
+ 
+#magic {
+    color: #414651;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 16px;
+    margin-left: 55px;
+
+}
+
+#animals {
+    color: #414651;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 35px;
+    font-weight: 722;
+    height: 72px;
+    width: 722px;
+}
+
+#work {
+    color: #00C76E;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 326px;
+    margin-top: 15px;
+}
+
+#oxygen {
+    color: #FF5DA3;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 169px;
+    height: 72px;
+    width: 461px;
+}
+
+#foto {
+    font-weight: 200;
+    height: 200;
+    margin-left: 55px;
+}
+
+#where {
+    color: #414651;
+    font-size: 24px;
+    font-weight: 800;
+    border: 6px solid #C11574;
+    background: #FFDEF0;
+    width: 722px;
+    margin-left: 55px;
+
+}
+
+
+#circle {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+#firstText {
+    display: inline-block;
+    color: #C27512;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#circle2 {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+#secondtext {
+    display: inline-block;
+    color: #C27512;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#circle3 {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: black;
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 24px;
+}
+
+#thirdtext {
+    display: inline-block;
+    color: #C27512;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+
+#raghacafoto {
+    width: 298.012px;
+    height: 396px;
+    margin-left: 55px;
+    margin-top: 24px;
+}
